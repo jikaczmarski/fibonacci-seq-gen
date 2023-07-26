@@ -9,3 +9,4 @@ This script requires: ArgParse, BenchmarkTools, and Plots.
 ```bash
 $ julia fibonacci-sequence.jl --help
 ```
+![fibonacci-sequence-help](fib-sequence-help.png)
